@@ -1,20 +1,22 @@
 # Agenda
 
-**Agenda** é um programa desenvolvido em Python que permite o gerenciamento de contatos, facilitando o armazenamento e a organização de informações pessoais.
+**Agenda** é um programa em Python para gerenciar contatos, permitindo armazenar, buscar e organizar informações pessoais facilmente.
 
 ## Funcionalidades
 
-- **Armazenamento de Contatos**: Permite adicionar, editar e remover contatos, armazenando informações como nome, e-mail e número de telefone.
-- **Visualização de Contatos**: Exibe a lista de contatos armazenados, possibilitando a busca por nome.
-- **Persistência de Dados**: Utiliza um arquivo CSV para salvar e carregar os dados, garantindo que as informações sejam mantidas entre as execuções do programa.
+- **Adicionar/Editar/Remover Contatos**: Inclui nome, e-mail e telefone.
+- **Visualizar Contatos**: Lista todos os contatos e permite busca por nome.
+- **Persistência de Dados**: Salva e carrega os contatos em um arquivo CSV entre execuções.
 
 ## Tecnologias
 
-- **Python**: Linguagem de programação utilizada no desenvolvimento do programa.
-- **CSV**: Formato de arquivo utilizado para armazenar os dados dos contatos.
+- **Python** — Desenvolvimento do programa.
+- **CSV** — Armazenamento dos dados de forma simples e portátil.
 
 ## Como Usar
-**Clone o Repositório**:
 
-   ```bash
-   git clone https://github.com/LightProgrammer000/Agenda.git
+1. **Clone o repositório**:
+
+```bash
+git clone https://github.com/LightProgrammer000/Agenda.git
+cd Agenda
